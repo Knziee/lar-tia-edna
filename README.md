@@ -85,7 +85,7 @@ A visualização do site também está disponível nesse [link]() através do Ve
 
 ## Gostaria de ajudar?
 
-Acesse o site [Lar da Tia Edna]() para saber como ajudar!
+Acesse o site [Lar da Tia Edna](https://lar-tia-edna.vercel.app/) para saber como ajudar!
 
 <p><br></p>
 
